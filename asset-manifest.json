@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022-ra-45-forms-hex2rgb/static/css/main.57e415d3.css",
+    "main.js": "/2022-ra-45-forms-hex2rgb/static/js/main.e5de6223.js",
+    "static/js/787.cc9a7183.chunk.js": "/2022-ra-45-forms-hex2rgb/static/js/787.cc9a7183.chunk.js",
+    "index.html": "/2022-ra-45-forms-hex2rgb/index.html",
+    "main.57e415d3.css.map": "/2022-ra-45-forms-hex2rgb/static/css/main.57e415d3.css.map",
+    "main.e5de6223.js.map": "/2022-ra-45-forms-hex2rgb/static/js/main.e5de6223.js.map",
+    "787.cc9a7183.chunk.js.map": "/2022-ra-45-forms-hex2rgb/static/js/787.cc9a7183.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e415d3.css",
+    "static/js/main.e5de6223.js"
+  ]
+}
